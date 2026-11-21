@@ -6,7 +6,7 @@
 [![42 School](https://img.shields.io/badge/42-School-000000?style=for-the-badge&logo=42&logoColor=white)](https://42.fr)
 [![C++98](https://img.shields.io/badge/C%2B%2B-98-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/cpp/98)
 [![Milestone](https://img.shields.io/badge/Milestone-5-blueviolet?style=for-the-badge)](https://42.fr)
-[![Status](https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge)]()
+[![Status](https://img.shields.io/badge/Status-Completed%20100%25-brightgreen?style=for-the-badge)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 <p align="center">
@@ -167,46 +167,46 @@ class Example {
 
 ## 📊 Tabela de Progresso & Exercícios
 
-| Módulo | Exercício | Nome / Descrição | Conceito Central | Status |
-| :---: | :---: | :--- | :--- | :---: |
-| **CPP00** | `ex00` | Megaphone | `std::cout`, argumentos da CLI | [ ] Não iniciado |
-| | `ex01` | PhoneBook | Classes, atributos privados, `std::cin` | [ ] Não iniciado |
-| | `ex02` | Account | Atributos e métodos `static`, logs | [ ] Não iniciado |
-| **CPP01** | `ex00` | BraiiiiiiinnnzzzZ | Heap vs Stack, `new` e `delete` | [ ] Não iniciado |
-| | `ex01` | Moar brainz! | Alocação de arrays de objetos | [ ] Não iniciado |
-| | `ex02` | HI THIS IS BRAIN | Ponteiros vs Referências | [ ] Não iniciado |
-| | `ex03` | Unnecessary violence | Composição, referências em atributos | [ ] Não iniciado |
-| | `ex04` | Sed is for losers | Streams de arquivo (`std::ifstream`, `std::ofstream`) | [ ] Não iniciado |
-| | `ex05` | Harl 2.0 | Ponteiros para funções membro | [ ] Não iniciado |
-| | `ex06` | Harl filter | Instrução `switch` e fallthrough | [ ] Não iniciado |
-| **CPP02** | `ex00` | Fixed Base | Forma Canônica Ortodoxa básica | [ ] Não iniciado |
-| | `ex01` | Fixed Useful | Ponto fixo em ponto flutuante e inteiros | [ ] Não iniciado |
-| | `ex02` | Fixed Operators | Sobrecarga de operadores aritméticos/comparação | [ ] Não iniciado |
-| | `ex03` | BSP | Particionamento Binário de Espaço (Geometria 2D) | [ ] Não iniciado |
-| **CPP03** | `ex00` | ClapTrap | Criação de classe base | [ ] Não iniciado |
-| | `ex01` | ScavTrap | Herança simples, construtores derivados | [ ] Não iniciado |
-| | `ex02` | FragTrap | Cadeia de herança | [ ] Não iniciado |
-| | `ex03` | DiamondTrap | Herança em diamante e herança virtual | [ ] Não iniciado |
-| **CPP04** | `ex00` | Polymorphism | Funções virtuais, polimorfismo dinâmico | [ ] Não iniciado |
-| | `ex01` | Deep Copy | Cópia profunda com membros alocados | [ ] Não iniciado |
-| | `ex02` | Abstract Class | Classes abstratas e funções virtuais puras | [ ] Não iniciado |
-| | `ex03` | Interface & Recap| Interfaces puras, inventário de Materias | [ ] Não iniciado |
-| **CPP05** | `ex00` | Bureaucrat | `std::exception`, blocos `try`/`catch` | [ ] Não iniciado |
-| | `ex01` | Form | Formulários e validação por exceção | [ ] Não iniciado |
-| | `ex02` | Concrete Forms | Hierarquia de exceções e ações polimórficas | [ ] Não iniciado |
-| | `ex03` | Intern | Padrão Factory com tratamento de erros | [ ] Não iniciado |
-| **CPP06** | `ex00` | ScalarConverter | `static_cast` e conversão de literais | [ ] Não iniciado |
-| | `ex01` | Serializer | `reinterpret_cast` para serialização de ponteiros | [ ] Não iniciado |
-| | `ex02` | Identify Real Type | `dynamic_cast` e identificação em tempo de execução | [ ] Não iniciado |
-| **CPP07** | `ex00` | Template Functions | Funções template (`swap`, `min`, `max`) | [ ] Não iniciado |
-| | `ex01` | Iter | Função template com iteração e callbacks | [ ] Não iniciado |
-| | `ex02` | Array | Classe template para manipulação de array | [ ] Não iniciado |
-| **CPP08** | `ex00` | Easy find | Algoritmos de busca em contêineres STL | [ ] Não iniciado |
-| | `ex01` | Span | Gerenciamento de intervalos em contêineres | [ ] Não iniciado |
-| | `ex02` | MutantStack | Tornando `std::stack` iterável com iteradores | [ ] Não iniciado |
-| **CPP09** | `ex00` | Bitcoin Exchange | `std::map`, parsing de CSV e lookup temporal | [ ] Não iniciado |
-| | `ex01` | RPN Calculator | `std::stack` para Notação Polonesa Reversa | [ ] Não iniciado |
-| | `ex02` | PmergeMe | Merge-Insert Sort (Ford-Johnson) com 2 contêineres | [ ] Não iniciado |
+| Módulo | Exercício | Nome / Descrição | Conceito Central | Status | Guia de Defesa |
+| :---: | :---: | :--- | :--- | :---: | :---: |
+| [**CPP00**](file:///home/hcosta/Documentos/42cursus/milestone%204/cpp-modules/cpp00/README.md) | `ex00` | Megaphone | `std::cout`, argumentos da CLI | [x] Concluído | [Guia CPP00](file:///home/hcosta/Documentos/42cursus/milestone%204/cpp-modules/cpp00/DEFENSE_GUIDE.md) |
+| | `ex01` | PhoneBook | Classes, atributos privados, `std::cin` | [x] Concluído | |
+| | `ex02` | Account | Atributos e métodos `static`, logs | [x] Concluído | |
+| [**CPP01**](file:///home/hcosta/Documentos/42cursus/milestone%204/cpp-modules/cpp01/README.md) | `ex00` | BraiiiiiiinnnzzzZ | Heap vs Stack, `new` e `delete` | [x] Concluído | [Guia CPP01](file:///home/hcosta/Documentos/42cursus/milestone%204/cpp-modules/cpp01/DEFENSE_GUIDE.md) |
+| | `ex01` | Moar brainz! | Alocação de arrays de objetos (`new[]`/`delete[]`) | [x] Concluído | |
+| | `ex02` | HI THIS IS BRAIN | Ponteiros vs Referências | [x] Concluído | |
+| | `ex03` | Unnecessary violence | Composição, referências em atributos | [x] Concluído | |
+| | `ex04` | Sed is for losers | Streams de arquivo (`std::ifstream`, `std::ofstream`) | [x] Concluído | |
+| | `ex05` | Harl 2.0 | Ponteiros para funções membro | [x] Concluído | |
+| | `ex06` | Harl filter | Instrução `switch` e fallthrough deliberado | [x] Concluído | |
+| [**CPP02**](file:///home/hcosta/Documentos/42cursus/milestone%204/cpp-modules/cpp02/README.md) | `ex00` | Fixed Base | Forma Canônica Ortodoxa básica | [x] Concluído | [Guia CPP02](file:///home/hcosta/Documentos/42cursus/milestone%204/cpp-modules/cpp02/DEFENSE_GUIDE.md) |
+| | `ex01` | Fixed Useful | Ponto fixo em ponto flutuante e inteiros | [x] Concluído | |
+| | `ex02` | Fixed Operators | Sobrecarga de operadores aritméticos/comparação | [x] Concluído | |
+| | `ex03` | BSP | Particionamento Binário de Espaço (Geometria 2D) | [x] Concluído | |
+| [**CPP03**](file:///home/hcosta/Documentos/42cursus/milestone%204/cpp-modules/cpp03/README.md) | `ex00` | ClapTrap | Criação de classe base | [x] Concluído | [Guia CPP03](file:///home/hcosta/Documentos/42cursus/milestone%204/cpp-modules/cpp03/DEFENSE_GUIDE.md) |
+| | `ex01` | ScavTrap | Herança simples, construtores derivados | [x] Concluído | |
+| | `ex02` | FragTrap | Cadeia de herança | [x] Concluído | |
+| | `ex03` | DiamondTrap | Herança em diamante e herança virtual | [x] Concluído | |
+| [**CPP04**](file:///home/hcosta/Documentos/42cursus/milestone%204/cpp-modules/cpp04/README.md) | `ex00` | Polymorphism | Funções virtuais, polimorfismo dinâmico | [x] Concluído | [Guia CPP04](file:///home/hcosta/Documentos/42cursus/milestone%204/cpp-modules/cpp04/DEFENSE_GUIDE.md) |
+| | `ex01` | Deep Copy | Cópia profunda com membros alocados | [x] Concluído | |
+| | `ex02` | Abstract Class | Classes abstratas e funções virtuais puras | [x] Concluído | |
+| | `ex03` | Interface & Recap| Interfaces puras, inventário de Materias | [x] Concluído | |
+| [**CPP05**](file:///home/hcosta/Documentos/42cursus/milestone%204/cpp-modules/cpp05/README.md) | `ex00` | Bureaucrat | `std::exception`, blocos `try`/`catch` | [x] Concluído | [Guia CPP05](file:///home/hcosta/Documentos/42cursus/milestone%204/cpp-modules/cpp05/DEFENSE_GUIDE.md) |
+| | `ex01` | Form | Formulários e validação por exceção | [x] Concluído | |
+| | `ex02` | Concrete Forms | Hierarquia de exceções e ações polimórficas | [x] Concluído | |
+| | `ex03` | Intern | Padrão Factory com tratamento de erros | [x] Concluído | |
+| [**CPP06**](file:///home/hcosta/Documentos/42cursus/milestone%204/cpp-modules/cpp06/README.md) | `ex00` | ScalarConverter | `static_cast` e conversão de literais | [x] Concluído | [Guia CPP06](file:///home/hcosta/Documentos/42cursus/milestone%204/cpp-modules/cpp06/DEFENSE_GUIDE.md) |
+| | `ex01` | Serializer | `reinterpret_cast` para serialização de ponteiros | [x] Concluído | |
+| | `ex02` | Identify Real Type | `dynamic_cast` e identificação em tempo de execução | [x] Concluído | |
+| [**CPP07**](file:///home/hcosta/Documentos/42cursus/milestone%204/cpp-modules/cpp07/README.md) | `ex00` | Template Functions | Funções template (`swap`, `min`, `max`) | [x] Concluído | [Guia CPP07](file:///home/hcosta/Documentos/42cursus/milestone%204/cpp-modules/cpp07/DEFENSE_GUIDE.md) |
+| | `ex01` | Iter | Função template com iteração e callbacks | [x] Concluído | |
+| | `ex02` | Array | Classe template para manipulação de array | [x] Concluído | |
+| [**CPP08**](file:///home/hcosta/Documentos/42cursus/milestone%204/cpp-modules/cpp08/README.md) | `ex00` | Easy find | Algoritmos de busca em contêineres STL | [x] Concluído | [Guia CPP08](file:///home/hcosta/Documentos/42cursus/milestone%204/cpp-modules/cpp08/DEFENSE_GUIDE.md) |
+| | `ex01` | Span | Gerenciamento de intervalos em contêineres | [x] Concluído | |
+| | `ex02` | MutantStack | Tornando `std::stack` iterável com iteradores | [x] Concluído | |
+| [**CPP09**](file:///home/hcosta/Documentos/42cursus/milestone%204/cpp-modules/cpp09/README.md) | `ex00` | Bitcoin Exchange | `std::map`, parsing de CSV e lookup temporal | [x] Concluído | [Guia CPP09](file:///home/hcosta/Documentos/42cursus/milestone%204/cpp-modules/cpp09/DEFENSE_GUIDE.md) |
+| | `ex01` | RPN Calculator | `std::stack` para Notação Polonesa Reversa | [x] Concluído | |
+| | `ex02` | PmergeMe | Merge-Insert Sort (Ford-Johnson) com 2 contêineres | [x] Concluído | |
 
 ---
 
