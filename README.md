@@ -5,6 +5,7 @@
 
 [![42 School](https://img.shields.io/badge/42-School-000000?style=for-the-badge&logo=42&logoColor=white)](https://42.fr)
 [![C++98](https://img.shields.io/badge/C%2B%2B-98-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/cpp/98)
+[![Milestone](https://img.shields.io/badge/Milestone-4-blueviolet?style=for-the-badge)](https://42.fr)
 [![Milestone](https://img.shields.io/badge/Milestone-5-blueviolet?style=for-the-badge)](https://42.fr)
 [![Status](https://img.shields.io/badge/Status-Completed%20100%25-brightgreen?style=for-the-badge)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
